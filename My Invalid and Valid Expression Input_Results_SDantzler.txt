@@ -1,0 +1,33 @@
+
+#Input1 instructions are as follows: 
+
+LD B
+EX C
+ST TEMP1
+LD A
+SB TEMP1
+ST TEMP2
+LD C
+AD B
+ST TEMP3
+LD TEMP3
+EX A
+ST TEMP4
+Invalid Postfix Expression for Input1
+
+Invalid Postfix Expression for Input2
+
+
+#Input3 instructions are as follows: 
+
+Invalid Postfix Expression for Input3
+
+
+#Input4 instructions are as follows: 
+
+LD B
+AD C
+ST TEMP1
+LD A
+DV TEMP1
+ST TEMP2
